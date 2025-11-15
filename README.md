@@ -1,1 +1,1 @@
-git clone -b "kotlin-jvm" https://github.com/concertypin/template
+git clone -b https://github.com/templecon/template-kotlin-jvm
